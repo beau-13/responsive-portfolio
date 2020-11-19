@@ -10,7 +10,7 @@
 Download
 --------
 
-### [Click here to download latest version](https://github.com/beau-13/horiseon-homework/archive/main.zip)
+### [Click here to download latest version](https://github.com/beau-13/responsive-portfolio.git)
 
 #### Description of Repository
 
@@ -18,6 +18,7 @@ Download
 
 A large challenge in developing web pages and applications is the responsiveness to dfiferent devices. This repository shows how to use Bootstrap's grid and layout applications to make web pages with out the use of media queries. 
 
-This file has been edited to provide a semantic view of HTML vs. a HTML with divs. This will make it a much easier website for future developers to add/amend any changes they may see fit. 
-
 ### SnapShots
+
+![Responsive Screenshot-1](https://user-images.githubusercontent.com/71921579/99642747-cd1ac500-2a86-11eb-969e-ce13517eba6f.JPG)
+![Responsive Screenshot-2](https://user-images.githubusercontent.com/71921579/99642843-ef144780-2a86-11eb-9012-c8a66a2681f9.JPG)
